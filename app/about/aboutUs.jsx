@@ -32,8 +32,7 @@ export default function AboutUs() {
             fontSize:15,
             marginBottom:20,
             
-        }}>YogaCure.AI is developed by Shrishty, Ayushi, Ritika and Mayank
-        under the expert guidance of our esteemed teachers. </Text>
+        }}>YogaCure.AI is developed by Sourav Jangid </Text>
         <Text style={{
             fontFamily:'outfit',
             color:Colors.GRAY,
