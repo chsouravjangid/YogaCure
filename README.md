@@ -1,6 +1,14 @@
-# Welcome to your Expo app 👋
+# 🧘‍♂️ YogaCure – AI-Based Personalized Yoga App
+YogaCure is a cross-platform mobile app built with React Native (Expo) that delivers AI-powered personalized yoga plans. Users can sign in securely, input their yoga preferences or health goals, and receive dynamically generated yoga plans via Google’s Gemini API. These routines are then stored in Firebase for easy, persistent access.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 Features
+🔐 User Authentication: Secure sign-in and sign-up with Firebase Authentication.
+
+🤖 AI Yoga Plan Generator: Integrates with Gemini API to generate personalized yoga sessions based on user prompts.
+
+☁️ Cloud Storage: Saves generated routines to Firebase Firestore for persistent access and user-specific history.
+
+📱 Responsive UI: Clean, mobile-first design using Expo and React Native.
 
 ## Get started
 
@@ -16,35 +24,15 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 📸 Screenshots
+<img src="https://github.com/user-attachments/assets/91e6c95e-b549-4ceb-a921-fae7c5eeb9d2" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/e52f6439-e802-4c61-8225-6f51fcc241b8" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/c20738e0-b15d-425f-8c26-71b74e47ac61" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/9e184939-1e2a-403e-b1ef-9c10d7b87e24" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/92081d64-56fd-4aae-aea4-ada6e9dbad34" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/af8e787a-a354-4ce7-bd8b-3dd690ac2bd0" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/bc80aaab-640d-44e6-aeef-8b57649edec4" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/10a6845a-f33e-406f-b3ff-05f1ee6d003c" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/660f9f14-b7e0-4807-8272-8b6cdfc89658" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/688e5994-a5a9-45e1-8206-a524517bd185" width=200px height=400px>
+<img src="https://github.com/user-attachments/assets/7c98e844-655c-4881-81cd-97a16f317585" width=200px height=400px>
