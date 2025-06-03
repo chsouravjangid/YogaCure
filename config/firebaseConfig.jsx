@@ -5,12 +5,7 @@ import ReactNativeAsyncStorage from "@react-native-async-storage/async-storage";
 
 // Your Firebase Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCEAACqQjQBO9HyEgcjPcqVFuMI_cMCdco",
-  authDomain: "tryfirebase-2fa6d.firebaseapp.com",
-  projectId: "tryfirebase-2fa6d",
-  storageBucket: "tryfirebase-2fa6d.firebasestorage.app",
-  messagingSenderId: "1005523804928",
-  appId: "1:1005523804928:web:1baefb9c38cb45657a89e5"
+  // put your config hereeeee
 };
 
 const app = initializeApp(firebaseConfig);
